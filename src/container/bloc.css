@@ -1,0 +1,38 @@
+
+.bloc-container{
+
+    color: whitesmoke;
+    width: 150%;
+    margin: 50px auto;
+    padding: 100px;
+    position: relative;
+    top: -20px;
+    border-radius: 5px; 
+    font-size: 20px;
+    background-color: rgb(40,50, 60);
+}
+
+button{
+
+    position: absolute; 
+    right: 20px; 
+    bottom: 15px; 
+
+}
+
+.comment{
+    color: whitesmoke;
+    width: 150%;
+    margin: 50px auto;
+    padding: 100px;
+    position: relative;
+    top: -20px;
+    border-radius: 5px; 
+    font-size: 20px;
+    background-color: rgb(40,50, 60);
+
+}
+
+.date{
+    font-size: 10px; 
+}
